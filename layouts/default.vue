@@ -34,4 +34,13 @@ html {
   box-sizing: border-box;
   margin: 0;
 }
+
+@font-face {
+    font-family: 'Madina Script';
+    src: url(/fonts/MadinaScriptStd.ttf);
+}
+
+.madina {
+  font-family: 'Madina Script', cursive;
+}
 </style>
